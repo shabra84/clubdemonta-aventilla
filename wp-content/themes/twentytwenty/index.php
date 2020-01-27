@@ -36,15 +36,13 @@ get_header();
                 <!-- Slide Two - Set the background image for this slide in the line below -->
                 <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x1080')">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2 class="display-4">Second Slide</h2>
-                        <p class="lead">This is a description for the second slide.</p>
+                        <h2 class="display-4">Descripción</h2>
                     </div>
                 </div>
                 <!-- Slide Three - Set the background image for this slide in the line below -->
                 <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x1080')">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2 class="display-4">Third Slide</h2>
-                        <p class="lead">This is a description for the third slide.</p>
+                        <h2 class="display-4">Contáctos</h2>
                     </div>
                 </div>
             </div>
