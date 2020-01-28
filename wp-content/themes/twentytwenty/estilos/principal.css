@@ -13,7 +13,7 @@
     font-family: 'Bowlby One SC', cursive;
 }
 
-.primary-menu a{
+.primary-menu a, .primary-menu span{
     color: #6fa941 !important;
     font-size: 21px !important;
 }
