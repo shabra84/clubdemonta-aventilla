@@ -31,7 +31,7 @@ get_header();
                 <!-- Slide One - Set the background image for this slide in the line below -->
                 <div class="carousel-item active" style="background-image: url('wp-content/themes/twentytwenty/imagenes/slider1.jpg')">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2 class="display-4">Próximas salidas.</h2>
+                        <h2 class="display-4">Próximas salidas</h2>
                     </div>
                 </div>
                 <!-- Slide Two - Set the background image for this slide in the line below -->
