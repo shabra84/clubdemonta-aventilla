@@ -28,7 +28,7 @@ get_header();
             </ol>
             <div class="carousel-inner" role="listbox">
                 <!-- Slide One - Set the background image for this slide in the line below -->
-                <div class="carousel-item active" style="background-image: url('https://source.unsplash.com/LAaSoL0LrYs/1920x1080')">
+                <div class="carousel-item active" style="background-image: url('wp-content/themes/twentytwenty/slider1.jpg')">
                     <div class="carousel-caption d-none d-md-block">
                         <h2 class="display-4">Próximas salidas.</h2>
                     </div>
