@@ -27,6 +27,9 @@
 
         <!-- estilos -->
         <link rel="stylesheet" href="wp-content/themes/twentytwenty/estilos/principal.css" />
+        
+        <!-- fontawesome -->
+        <link rel="https://use.fontawesome.com/releases/v5.0.6/css/all.css" />
 
         <?php wp_head(); ?>
 

@@ -27,6 +27,7 @@ get_header();
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
+                <i class="fas fa-file-signature"></i>
                 <!-- Slide One - Set the background image for this slide in the line below -->
                 <div class="carousel-item active" style="background-image: url('wp-content/themes/twentytwenty/imagenes/slider1.jpg')">
                     <div class="carousel-caption d-none d-md-block">
