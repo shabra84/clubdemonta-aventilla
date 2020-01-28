@@ -6384,6 +6384,6 @@ a.to-the-top > * {
 }
 
 .header-navigation-wrapper a{
-    color: #6fa941;
-    font-size: 21px;
+    color: #6fa941 !imporant;
+    font-size: 21px !imporant;
 }
