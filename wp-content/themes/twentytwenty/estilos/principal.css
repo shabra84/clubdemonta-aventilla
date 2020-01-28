@@ -1,0 +1,19 @@
+
+.carousel-item {
+  height: 85vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header-navigation-wrapper {
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.primary-menu a{
+    color: #6fa941 !important;
+    font-size: 21px !important;
+}
