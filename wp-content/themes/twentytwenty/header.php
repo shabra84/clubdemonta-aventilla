@@ -120,7 +120,7 @@ if (has_nav_menu('primary') || !has_nav_menu('expanded')) {
 
     <?php
 }
-/*
+
 if (true === $enable_header_search || has_nav_menu('expanded')) {
     ?>
 
@@ -145,21 +145,10 @@ if (true === $enable_header_search || has_nav_menu('expanded')) {
 
         <?php
     }
-*/?>
- <?php
+
     if (true === $enable_header_search) {
         ?>
 
-                                <div class="toggle-wrapper search-toggle-wrapper">
-
-                                    <button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
-                                        <span class="toggle-inner">
-        <?php twentytwenty_the_theme_svg('search'); ?>
-                                            <span class="toggle-text"><?php _e('Search', 'twentytwenty'); ?></span>
-                                        </span>
-                                    </button><!-- .search-toggle -->
-
-                                </div>
 
         <?php
     }
