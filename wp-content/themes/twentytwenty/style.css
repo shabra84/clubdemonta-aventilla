@@ -6379,3 +6379,11 @@ a.to-the-top > * {
   background-size: cover;
 }
 
+.header-navigation-wrapper {
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.header-navigation-wrapper a{
+    color: #6fa941;
+    font-size: 21px;
+}
