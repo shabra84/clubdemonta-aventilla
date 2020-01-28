@@ -145,7 +145,8 @@ if (true === $enable_header_search || has_nav_menu('expanded')) {
 
         <?php
     }
-*/
+*/?>
+ <?php
     if (true === $enable_header_search) {
         ?>
 
