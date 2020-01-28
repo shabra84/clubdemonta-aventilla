@@ -120,7 +120,7 @@ if (has_nav_menu('primary') || !has_nav_menu('expanded')) {
 
     <?php
 }
-
+/*
 if (true === $enable_header_search || has_nav_menu('expanded')) {
     ?>
 
@@ -145,7 +145,7 @@ if (true === $enable_header_search || has_nav_menu('expanded')) {
 
         <?php
     }
-
+*/
     if (true === $enable_header_search) {
         ?>
 
