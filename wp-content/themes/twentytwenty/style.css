@@ -4800,7 +4800,7 @@ a.to-the-top > * {
 	}
 
 	.site-logo img {
-		max-height: 9rem;
+		max-height: 13rem;
 		transition: height 0.15s linear, width 0.15s linear, max-height 0.15s linear;
 	}
 
