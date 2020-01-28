@@ -4331,7 +4331,7 @@ div.comment:first-of-type {
 
 .footer-top-visible .footer-nav-widgets-wrapper,
 .footer-top-hidden #site-footer {
-	margin-top: 5rem;
+	/*margin-top: 5rem;*/
 }
 
 .reduced-spacing.footer-top-visible .footer-nav-widgets-wrapper,
@@ -5461,7 +5461,7 @@ a.to-the-top > * {
 
 	.footer-top-visible .footer-nav-widgets-wrapper,
 	.footer-top-hidden #site-footer {
-		margin-top: 8rem;
+		/*margin-top: 8rem;*/
 	}
 
 	/* FOOTER TOP */
