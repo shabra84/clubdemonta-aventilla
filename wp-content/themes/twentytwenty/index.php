@@ -34,13 +34,13 @@ get_header();
                     </div>
                 </div>
                 <!-- Slide Two - Set the background image for this slide in the line below -->
-                <div class="carousel-item" style="background-image: url('https://source.unsplash.com/bF2vsubyHcQ/1920x1080')">
+                <div class="carousel-item" style="background-image: url('wp-content/themes/twentytwenty/imagenes/slider2.jpg')">
                     <div class="carousel-caption d-none d-md-block">
                         <h2 class="display-4">Descripción</h2>
                     </div>
                 </div>
                 <!-- Slide Three - Set the background image for this slide in the line below -->
-                <div class="carousel-item" style="background-image: url('https://source.unsplash.com/szFUQoyvrxM/1920x1080')">
+                <div class="carousel-item" style="background-image: url('wp-content/themes/twentytwenty/imagenes/slider3.jpg')">
                     <div class="carousel-caption d-none d-md-block">
                         <h2 class="display-4">Contáctos</h2>
                     </div>
