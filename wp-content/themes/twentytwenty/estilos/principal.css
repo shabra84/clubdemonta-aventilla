@@ -21,3 +21,11 @@
 .sub-menu a {
     color: #fff !important;
 }
+
+.display-4 {
+    font-size: 9.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Bowlby One SC', cursive;
+    margin-bottom: 308px;
+}
